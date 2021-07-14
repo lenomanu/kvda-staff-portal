@@ -1,0 +1,2 @@
+rootProject.name = "KVDA Stuff Portal"
+include ':app'
