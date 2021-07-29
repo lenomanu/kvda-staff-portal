@@ -1,4 +1,4 @@
-package com.kvda.stuffportal;
+package com.kvda.staffportal;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -11,12 +11,7 @@ import android.webkit.WebChromeClient;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
-import android.widget.EditText;
 import android.widget.ProgressBar;
-import android.widget.TextView;
-import android.widget.Toast;
-
-import com.google.android.material.dialog.MaterialAlertDialogBuilder;
 
 public class MainActivity extends AppCompatActivity {
     WebView webView;

@@ -1,4 +1,4 @@
-package com.kvda.stuffportal;
+package com.kvda.staffportal;
 
 import org.junit.Test;
 
